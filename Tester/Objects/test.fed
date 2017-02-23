@@ -1,0 +1,35 @@
+;#<FEEDBACK># ARM Linker, 5060183: Last Updated: Sat Feb 18 14:44:40 2017
+;VERSION 0.2
+;FILE buttons_stm32f072-discovery.o
+Buttons_GetCount <= USED 0
+Buttons_GetState <= USED 0
+Buttons_Initialize <= USED 0
+Buttons_Uninitialize <= USED 0
+__asm___29_Buttons_STM32F072_Discovery_c_2d3ba4f3____REV16 <= USED 0
+__asm___29_Buttons_STM32F072_Discovery_c_2d3ba4f3____REVSH <= USED 0
+;FILE led_stm32f072-discovery.o
+LED_GetCount <= USED 0
+LED_Initialize <= USED 0
+LED_Off <= USED 0
+LED_On <= USED 0
+LED_SetOut <= USED 0
+LED_Uninitialize <= USED 0
+__asm___25_LED_STM32F072_Discovery_c_led_mask____REV16 <= USED 0
+__asm___25_LED_STM32F072_Discovery_c_led_mask____REVSH <= USED 0
+;FILE led_test.o
+__asm___10_Led_test_c_b672aa62____REV16 <= USED 0
+__asm___10_Led_test_c_b672aa62____REVSH <= USED 0
+;FILE retarget_io.o
+__aeabi_assert <= USED 0
+__backspace <= USED 0
+abort <= USED 0
+fgetc <= USED 0
+;FILE startup_stm32f072xb.o
+;FILE system_stm32f0xx.o
+__asm___18_system_stm32f0xx_c_5d646a67____REV16 <= USED 0
+__asm___18_system_stm32f0xx_c_5d646a67____REVSH <= USED 0
+;FILE usart_user.o
+__asm___12_usart_user_c_8831116a____REV16 <= USED 0
+__asm___12_usart_user_c_8831116a____REVSH <= USED 0
+stdin_getchar <= USED 0
+stdin_init <= USED 0

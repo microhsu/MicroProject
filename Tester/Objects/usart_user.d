@@ -1,0 +1,9 @@
+.\objects\usart_user.o: ..\Project\Nucleo_control\usart_user.c
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f072xb.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\usart_user.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
+.\objects\usart_user.o: C:\Users\YVTC\Desktop\Tester\RTE\RTE_Components.h

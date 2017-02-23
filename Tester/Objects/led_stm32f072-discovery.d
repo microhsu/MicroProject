@@ -1,0 +1,9 @@
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Boards\ST\STM32F072-Discovery\Common\LED_STM32F072-Discovery.c
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f072xb.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
+.\objects\led_stm32f072-discovery.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.3.0\Board\Board_LED.h
